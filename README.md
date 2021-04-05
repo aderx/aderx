@@ -2,4 +2,4 @@
 
 ![aderx's GitHub stats](https://github-readme-stats.vercel.app/api?username=aderx&show_icons=true&theme=buefy&count_private=true)
 
-![count](https://profile-counter.glitch.me/aderx/count.svg)
+<img src="https://profile-counter.glitch.me/aderx/count.svg" style="display:none;">
